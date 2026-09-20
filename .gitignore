@@ -1,0 +1,16 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.class
+
+# Trained models & large binaries
+*.pkl
+*.joblib
+
+# Large datasets (keep scripts and docs, exclude large raw CSVs if >50MB)
+*.csv
+
+# Environment & IDE
+.venv/
+env/
+.vscode/
